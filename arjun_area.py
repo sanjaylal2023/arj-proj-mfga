@@ -84,3 +84,4 @@ if __name__ == "__main__":
 
 #z=area_of_circle()
 #a=area_rect()
+print('finished my code and uploaded to github')
